@@ -567,21 +567,21 @@ export default function Home() {
             >
               <motion.article className="card" variants={iv}>
                 <h3>
-                  "Hoje meu conteúdo faz sentido com a marca que eu quero
-                  construir."
+                  &ldquo;Hoje meu conteúdo faz sentido com a marca que eu quero
+                  construir.&rdquo;
                 </h3>
                 <p className="muted">Depoimento de cliente</p>
               </motion.article>
               <motion.article className="card" variants={iv}>
                 <h3>
-                  "Finalmente consegui comunicar meu valor com mais clareza."
+                  &ldquo;Finalmente consegui comunicar meu valor com mais clareza.&rdquo;
                 </h3>
                 <p className="muted">Depoimento de cliente</p>
               </motion.article>
               <motion.article className="card" variants={iv}>
                 <h3>
-                  "Meu Instagram deixou de parecer improvisado e começou a
-                  transmitir autoridade."
+                  &ldquo;Meu Instagram deixou de parecer improvisado e começou a
+                  transmitir autoridade.&rdquo;
                 </h3>
                 <p className="muted">Depoimento de cliente</p>
               </motion.article>
