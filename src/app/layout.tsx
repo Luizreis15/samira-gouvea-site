@@ -15,9 +15,8 @@ const cormorant = Cormorant_Garamond({
 })
 
 export const metadata: Metadata = {
-  title: 'Samira Gouvêa — Branding & Posicionamento no Instagram',
-  description:
-    'Por onde sua marca começa? Produtos, EmpodHERA e estratégia de branding no Instagram.',
+  title: 'Samira Gouvêa',
+  description: 'Branding, posicionamento e marketing digital',
 }
 
 export default function RootLayout({
